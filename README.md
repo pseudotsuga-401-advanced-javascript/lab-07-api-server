@@ -27,3 +27,6 @@
 
 #### UML
 Link to an image of the UML for your application and response to events
+
+#### Attributions
+Credit to Trevor Thomphson for the memory models, as I am still working on lab 4. 
